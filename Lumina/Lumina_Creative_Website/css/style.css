@@ -106,10 +106,10 @@ img{
     padding: 0.5rem 1rem;
 }
 .header .main-menu a:hover{
-   background: var(--primary--color);
+   background: var(--primary-color);
 }
 .current{
-    background: var(--primary--color);
+    background: var(--primary-color);
     font-weight: 600;
 }
 
