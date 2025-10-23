@@ -12,9 +12,25 @@
     --container-narrow:900px;
 }
 
+body{
+    font-family: 'Open Sans',sans-serif;
+    line-height: 1.6;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+ul{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+
 /* Utility Classes */
 .bg-primary{
-    background:var(--primary--color);
+    background:var(--primary-color);
     color: #333;
 }
 
@@ -55,21 +71,7 @@
     margin-bottom: 40px;
 }
 
-body{
-    font-family: 'Open Sans',sans-serif;
-    line-height: 1.6;
-}
 
-a{
-    text-decoration: none;
-    color: #333;
-}
-ul{
-    list-style: none;
-}
-img{
-    max-width: 100%;
-}
 
 /* Container */
 .container{
