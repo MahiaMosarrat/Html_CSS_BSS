@@ -21,12 +21,12 @@ This repository includes multiple small to medium-sized projects designed to str
 
 ## 🧩 Project List
 
-| Project Name | Description | Live Demo |
-|---------------|-------------|------------|
-| **Tutor** | A modern landing page practice project with responsive design principles | [Live](https://tutor-website-project.netlify.app/) |
-| **Leno** | Product landing page featuring Flexbox layout and call-to-action sections | [Live](https://leno-app-bss.netlify.app/) |
-| **Signup Page (Bono App)** | A fully responsive signup/contact form with a gradient background | [Live](https://bono-app.netlify.app/) |
-| **Lumina Website** | A multi-section layout with navigation, gallery, and footer | [Live](https://lumina-website-app.netlify.app/) |
+| Project Name | Description | Live Demo | Source Code |
+|---------------|-------------|------------|------------|
+| **Tutor** | A modern landing page practice project with responsive design principles | [Live](https://tutor-website-project.netlify.app/) | [Visit](https://modern-html-css-from-the-beginning.vercel.app/tutor-website/)
+| **Leno** | Product landing page featuring Flexbox layout and call-to-action sections | [Live](https://leno-app-bss.netlify.app/) | [Visit](https://leno-source-code.netlify.app/)
+| **Signup Page (Bono App)** | A fully responsive signup/contact form with a gradient background | [Live](https://bono-app.netlify.app/) | [Visit](https://bono-source-code.netlify.app/)
+| **Lumina Website** | A multi-section layout with navigation, gallery, and footer | [Live](https://lumina-website-app.netlify.app/) | [Visit](https://lumina-source-code.netlify.app/)
 | *(more projects will be added as I progress through the course)* | | |
 
 ---
